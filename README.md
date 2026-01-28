@@ -72,3 +72,8 @@ Upload your image to the folder lookalikeceleb.
 Run the script face_match.py.
 
 See which celebrity you look like!
+
+
+
+<img width="652" height="350" alt="image" src="https://github.com/user-attachments/assets/eff96551-23bd-4326-97ea-3ab666af3b56" />
+
