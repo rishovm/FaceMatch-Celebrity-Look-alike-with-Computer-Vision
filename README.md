@@ -74,6 +74,13 @@ Run the script face_match.py.
 See which celebrity you look like!
 
 
+Example output with 2 different pictures of the same person but the output is the same....highlighting the accuracy of the model in identifying image features
+
+
 
 <img width="652" height="350" alt="image" src="https://github.com/user-attachments/assets/eff96551-23bd-4326-97ea-3ab666af3b56" />
+
+
+<img width="569" height="352" alt="image" src="https://github.com/user-attachments/assets/17963211-de24-43ff-ae12-57fbc66c2406" />
+
 
